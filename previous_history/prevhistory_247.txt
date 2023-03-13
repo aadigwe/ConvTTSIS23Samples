@@ -1,0 +1,5 @@
+Speaker0 Would you like any toast, dear?
+Speaker1 Um?
+Speaker0 Toast, dear?
+Speaker1 As you like.
+Speaker0 Would you like any tea, dear?

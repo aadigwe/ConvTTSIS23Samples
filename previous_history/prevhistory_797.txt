@@ -1,0 +1,5 @@
+Speaker1 Hello. What can I do for you, sir?
+Speaker0 Hi. Fill it up please. Premium.
+Speaker1 Sure.
+Speaker0 Oh, can you check my oil and tires while you're at it?
+Speaker1 No problem. I'm gonna need you to turn off your engine and open the hood for me.

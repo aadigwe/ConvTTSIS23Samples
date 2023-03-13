@@ -1,0 +1,5 @@
+Speaker1 Excuse me.
+Speaker0 Yes?
+Speaker1 I'm in a hurry. How long will it take?
+Speaker0 About half an hour, if there's no traffic jam.
+Speaker1 Do you think the traffic will be heavy?

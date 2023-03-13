@@ -1,0 +1,5 @@
+Speaker0 What type of music do you like to listen to?
+Speaker1 I like listening to different kinds of music.
+Speaker0 Like what, for instance?
+Speaker1 I enjoy Rock and R&B.
+Speaker0 Why is that?

@@ -1,0 +1,5 @@
+Speaker0 This looks like a nice restaurant.
+Speaker1 Yeah, it is. I come here all the time.
+Speaker0 Umm let's sit over there.
+Speaker1 OK.
+Speaker0 Can you pass me a menu please.

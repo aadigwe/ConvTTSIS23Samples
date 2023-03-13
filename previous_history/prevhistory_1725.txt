@@ -1,0 +1,5 @@
+Speaker1 Could we borrow the company van for a fundraiser this weekend?
+Speaker0 That would be a possibility. Where is this fundraiser taking place?
+Speaker1 It is in the hotel ballroom down the street.
+Speaker0 Do you need it for the whole weekend?
+Speaker1 Umm... We will need it for both days.

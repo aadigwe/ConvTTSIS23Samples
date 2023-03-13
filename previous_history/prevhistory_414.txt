@@ -1,0 +1,5 @@
+Speaker1 Do you want to go out for dinner tonight?
+Speaker0 Sure. Umm have you got anywhere in mind?
+Speaker1 I'm starving, so maybe we could go somewhere with large portions.
+Speaker0 That Italian restaurant in the city centre always has large portions. Do you want to go there?
+Speaker1 I'm not really in the mood for Italian, actually. I was thinking of something a bit spicy.

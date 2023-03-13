@@ -1,0 +1,5 @@
+Speaker1 Can I help you?
+Speaker0 I'd like to send a fax to Shenzhen.
+Speaker1 Is it a photograph or a document?
+Speaker0 Each of both.
+Speaker1 Could I see both of them?

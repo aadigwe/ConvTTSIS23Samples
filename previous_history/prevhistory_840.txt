@@ -1,0 +1,5 @@
+Speaker1 It's rather cold, isn't it?
+Speaker0 Umm, yes, it is.
+Speaker1 Shall I light the stove?
+Speaker0 That's a good idea.
+Speaker1 Well, what's the climate like in your country?

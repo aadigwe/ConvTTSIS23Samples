@@ -1,0 +1,5 @@
+Speaker1 John, do you mind helping me prepare for the picnic?
+Speaker0 No. Have you checked the weather report?
+Speaker1 Yes. It says it will be sunny all day. No sign of rain at all.
+Speaker0 I'd like some toast and chicken wings.
+Speaker1 OK. Please take some fruit salad and crackers for me.

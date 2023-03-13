@@ -1,0 +1,5 @@
+Speaker0 Have you been taken care of, miss?
+Speaker1 I am looking for a T-shirt.
+Speaker0 We have quite a variety of shirts here.
+Speaker1 What kind of material is this?
+Speaker0 Silk. You have a good taste. It's excellent for its handiness, elegance and beauty.

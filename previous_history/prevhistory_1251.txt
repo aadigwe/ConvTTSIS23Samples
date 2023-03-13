@@ -1,0 +1,5 @@
+Speaker0 How does it fit?
+Speaker1 It fits fine. I’ll take it. How much is it?
+Speaker0 The price is on the tag. How would you like to pay?
+Speaker1 Umm do you take credit cards?
+Speaker0 Yes, we do.
